@@ -1,0 +1,24 @@
+sample input  - output esperado:
+450550
+
+testinput.txt - output esperado:
+
+Impossible
+
+10100
+
+Impossible
+
+Impossible
+
+2000
+
+Impossible
+
+Impossible
+
+500
+
+1500
+
+1500

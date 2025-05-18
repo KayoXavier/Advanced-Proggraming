@@ -1,0 +1,12 @@
+sampleinput output esperado:
+
+Yes 
+No
+
+testinput output esperado:
+Yes
+Yes
+Yes
+No
+No
+No
